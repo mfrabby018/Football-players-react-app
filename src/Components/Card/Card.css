@@ -1,0 +1,30 @@
+.main_div{
+    width: 280px !important;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    border-radius: 20px !important;
+    -webkit-border-radius: 20px !important;
+    -moz-border-radius: 20px !important;
+    -ms-border-radius: 20px !important;
+    -o-border-radius: 20px !important;
+}
+.p_image{
+    height: 280px;
+    border-radius: 20px 20px 0 0 !important;
+    -webkit-border-radius: 20px 20px 0 0 !important;
+    -moz-border-radius: 20px 20px 0 0 !important;
+    -ms-border-radius: 20px 20px 0 0 !important;
+    -o-border-radius: 20px 20px 0 0 !important;
+}
+.fr{
+    margin-left: -5px;
+}
+.c_b{
+    border-radius: 5px !important;
+    -webkit-border-radius: 5px !important;
+    -moz-border-radius: 5px !important;
+    -ms-border-radius: 5px !important;
+    -o-border-radius: 5px !important;
+}
+
+

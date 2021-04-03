@@ -1,0 +1,21 @@
+.section_header{
+    text-align: center;
+    padding: 50px;
+    color: darkcyan;
+}
+.heading{
+    font-size: 40px;
+    text-align: center;
+    color: lightseagreen;
+}
+
+.custom{
+    padding-left: 0;
+    padding-right: 10px;
+}
+.players-container{
+    width: 60%;
+}
+.players-cart-container h1{
+    color: #000 ;
+}
